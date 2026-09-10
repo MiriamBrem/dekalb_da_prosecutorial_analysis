@@ -24,10 +24,8 @@ The analysis did not provide sufficient evidence to conclude that the Trial Divi
 ## Methods
 The analysis examined three Prosecutorial Performance Indicators:
 
-**Organizational & Staff Capacity:** Case distribution across attorneys and divisions
-
+**Organizational & Staff Capacity:** Case distribution across attorneys and divisions 
 **Timeliness & Case Processing:** Pending cases and resolution timelines
-
 **Addressing Serious Crime:** Outcomes for serious violent offenses
 
 The project involved cleaning and transforming real-world administrative data in R, followed by exploratory analysis and data visualization.
